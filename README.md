@@ -9,7 +9,7 @@
 
 **M2MCent** 是专为自主 AI 智能体（AI Agents）打造的高性能确定性微服务与 MCP（Model Context Protocol）网络，基于 **Base Mainnet (`eip155:8453`)** 链上 **x402 V2 (EIP-3009)** 协议运行，已通过 **Vouch Protocol Grade A (100/100)** 信任认证并具备抗量子密码学（FIPS 204 ML-DSA-65）支持。
 
-本指南帮助开发者在 **ModelScope (魔搭社区)**、**Qwen (通义千问)** 和 **Dify/FastGPT** 中一键接入 M2MCent 的 **1,057 个确定性内存引擎微服务**（引擎计算延迟 `<250ms`，单次调用 `$0.010`–`$0.250` USDC）。
+本指南帮助开发者在 **ModelScope (魔搭社区)**、**Qwen (通义千问)** 和 **Dify/FastGPT** 中一键接入 M2MCent 的 **1,062 个确定性内存引擎微服务**（引擎计算延迟 `<250ms`，单次调用 `$0.010`–`$0.250` USDC）。
 
 ### 🚀 快速接入 (Quickstart)
 
@@ -19,7 +19,7 @@
     "m2mcent-gateway": {
       "url": "https://api.m2mcent.com/sse",
       "type": "sse",
-      "description": "M2MCent 1,057 节点确定性 AI 智能体微服务网络 (<250ms SLA)"
+      "description": "M2MCent 1,062 节点确定性 AI 智能体微服务网络 (<250ms SLA)"
     }
   }
 }
